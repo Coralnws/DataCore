@@ -1,4 +1,3 @@
-<!-- DataCore_20250804193423_6726 -->
 
 # DataCore: Fault-Tolerant Data Infrastructure for the Modern Era
 > "Empowering data-driven innovation with self-healing, high-performance storage solutions."
